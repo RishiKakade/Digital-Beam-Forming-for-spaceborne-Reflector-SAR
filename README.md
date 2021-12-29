@@ -13,7 +13,7 @@ The model used to generate data for demonstrating the results of the paper was t
 ## Algorithm
 <figure>
     <center>
-      <img src="images/algorithmic_flow.png" width=200 height=200 />
+      <img src="images/algorithmic_flow.png"  />
     </center>
 </figure> 
 
@@ -22,7 +22,7 @@ The model used to generate data for demonstrating the results of the paper was t
 
 <figure>
     <center>
-      <img src="images/lfm.png" width=500 height=200 />
+      <img src="images/lfm.png"  />
         <figcaption>
             Local LFM Pulse
         </figcaption>
@@ -31,7 +31,7 @@ The model used to generate data for demonstrating the results of the paper was t
 
 <figure>
     <center>
-      <img src="images/noisy.png" width=500 height=200 />
+      <img src="images/noisy.png" />
         <figcaption>
             Local LFM Pulse with thermal noise
         </figcaption>
@@ -40,7 +40,7 @@ The model used to generate data for demonstrating the results of the paper was t
 
 <figure>
     <center>
-      <img src="images/target_channel.png" width=500 height=200 />
+      <img src="images/target_channel.png" />
         <figcaption>
             Point reflector model simulation along a channel
         </figcaption>
@@ -49,7 +49,7 @@ The model used to generate data for demonstrating the results of the paper was t
 
 <figure>
     <center>
-      <img src="images/target_image.png" width=500 height=200 />
+      <img src="images/target_image.png"  />
         <figcaption>
             Synthesized terrain image
         </figcaption>
