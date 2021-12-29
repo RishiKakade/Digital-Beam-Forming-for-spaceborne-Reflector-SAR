@@ -19,39 +19,30 @@ The model used to generate data for demonstrating the results of the paper was t
 
 ---
 ## Results
-
+### Local LFM Pulse
 <figure>
     <center>
       <img src="images/lfm.png"  />
-        <figcaption>
-            Local LFM Pulse
-        </figcaption>
     </center>
 </figure> 
 
+### Local LFM Pulse with thermal noise
 <figure>
     <center>
       <img src="images/noisy.png" />
-        <figcaption>
-            Local LFM Pulse with thermal noise
-        </figcaption>
     </center>
 </figure> 
 
+### Point reflector model simulation along a single channel
 <figure>
     <center>
       <img src="images/target_channel.png" />
-        <figcaption>
-            Point reflector model simulation along a single channel
-        </figcaption>
     </center>
 </figure> 
 
+### Synthesized terrain image of point target
 <figure>
     <center>
       <img src="images/target_image.png"  />
-        <figcaption>
-            Synthesized terrain image or point target
-        </figcaption>
     </center>
 </figure> 
