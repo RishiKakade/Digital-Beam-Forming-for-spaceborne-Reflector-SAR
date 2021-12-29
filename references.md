@@ -4,3 +4,5 @@
 
 [2] B. Wang, Digital Signal Processing Techniques and Applications in Radar Image Processing. New Jersey: John Wiley & Sons, 2008. 
 
+
+[3] J. Nicoll, SAR Processing, Alaska: University of Alaska, Fairbanks, 2006, pp. 20.
