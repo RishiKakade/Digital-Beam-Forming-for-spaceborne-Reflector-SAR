@@ -42,7 +42,7 @@ The model used to generate data for demonstrating the results of the paper was t
     <center>
       <img src="images/target_channel.png" />
         <figcaption>
-            Point reflector model simulation along a channel
+            Point reflector model simulation along a single channel
         </figcaption>
     </center>
 </figure> 
@@ -51,7 +51,7 @@ The model used to generate data for demonstrating the results of the paper was t
     <center>
       <img src="images/target_image.png"  />
         <figcaption>
-            Synthesized terrain image
+            Synthesized terrain image or point target
         </figcaption>
     </center>
 </figure> 
