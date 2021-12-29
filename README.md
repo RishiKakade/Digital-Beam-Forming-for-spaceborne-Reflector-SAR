@@ -17,6 +17,12 @@ The model used to generate data for demonstrating the results of the paper was t
     </center>
 </figure> 
 
+The flow breaks down into two main stages: data synthesis then processing. 
+
+In the synthesis stage, the goal is to generate the raw data that a SAR with a linear antenna array and parabolic reflector dish would receive along all channels. First, a symmetric chirp signal is generated to model the initial pulse the radar transmits to begin imaging the ground. The signal is normalized for how it would really be transmitted on the ground given the structure of the radar and reflector. The gain pattern of this structure is not isotropic (meaning spherical) and so it is necessary to adjust the amplitude of the signal depending on how the signal is physically projected on the ground.  The paper refers to this as the 'individual complex channel pattern'. Then, an artificial environment of a point reflector is constructed.
+
+In the processing stage, the received signal is range compressed to select channels that are significant. Then conjugate field matching is applied to create a cohesive image.
+
 ---
 ## Results
 ### Local LFM Pulse
